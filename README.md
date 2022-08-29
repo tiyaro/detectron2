@@ -48,9 +48,9 @@ to learn about basic usage.
 Learn more at our [documentation](https://detectron2.readthedocs.org).
 And see [projects/](projects/) for some projects that are built on top of detectron2.
 
-Alternatively, you can also choose to consume the models as a hosted API from these site(s):
+DensePose pre-trained models have been made available in the form of hosted APIs by third parties 
+for inference testing:
 
-* <a href="https://console.tiyaro.ai/explore?q=detectron2&pub=detectron2"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a> 
 * [Tiyaro.ai](https://console.tiyaro.ai/explore?q=densepose&pub=detectron2)
 
 ## Model Zoo and Baselines

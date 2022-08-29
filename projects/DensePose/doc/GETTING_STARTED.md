@@ -9,9 +9,9 @@ python apply_net.py show configs/densepose_rcnn_R_50_FPN_s1x.yaml densepose_rcnn
 ```
 Please see [Apply Net](TOOL_APPLY_NET.md) for more details on the tool.
 
-Alternatively, you may choose to consume the models as an API from the following site(s):
+DensePose pre-trained models have been made available in the form of hosted APIs by third parties 
+for inference testing:
 
-* <a href="https://console.tiyaro.ai/explore?q=densepose&pub=detectron2"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a> 
 * [Tiyaro.ai](https://console.tiyaro.ai/explore?q=densepose&pub=detectron2)
  
 ## Training
