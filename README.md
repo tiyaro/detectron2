@@ -3,6 +3,9 @@
 <a href="https://opensource.facebook.com/support-ukraine">
   <img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Support Ukraine - Help Provide Humanitarian Aid to Ukraine." />
 </a>
+<br>
+<br>
+<a href="https://console.tiyaro.ai/explore?pub=detectron2"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a> 
 
 Detectron2 is Facebook AI Research's next generation library
 that provides state-of-the-art detection and segmentation algorithms.
@@ -45,10 +48,15 @@ to learn about basic usage.
 Learn more at our [documentation](https://detectron2.readthedocs.org).
 And see [projects/](projects/) for some projects that are built on top of detectron2.
 
+
 ## Model Zoo and Baselines
 
 We provide a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](MODEL_ZOO.md).
 
+## Live demos
+
+* [Tiyaro.ai](https://console.tiyaro.ai/explore?q=densepose&pub=detectron2)
+ 
 ## License
 
 Detectron2 is released under the [Apache 2.0 license](LICENSE).
