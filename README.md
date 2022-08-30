@@ -48,15 +48,15 @@ to learn about basic usage.
 Learn more at our [documentation](https://detectron2.readthedocs.org).
 And see [projects/](projects/) for some projects that are built on top of detectron2.
 
-DensePose pre-trained models have been made available in the form of hosted APIs by third parties 
-for inference testing:
-
-* [Tiyaro.ai](https://console.tiyaro.ai/explore?q=densepose&pub=detectron2)
 
 ## Model Zoo and Baselines
 
 We provide a large set of baseline results and trained models available for download in the [Detectron2 Model Zoo](MODEL_ZOO.md).
 
+## Live demos
+
+* [Tiyaro.ai](https://console.tiyaro.ai/explore?q=densepose&pub=detectron2)
+ 
 ## License
 
 Detectron2 is released under the [Apache 2.0 license](LICENSE).
